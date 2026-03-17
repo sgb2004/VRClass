@@ -22,7 +22,7 @@
 
 ## 🏗️ System Architecture
 
-*(Optional: Replace the link below with the actual path to your architecture diagram)*
+
 ![VRClass Architecture](Assets/Archtecture_VRClass.png)
 
 VRClass operates on a modular client-server architecture:
