@@ -23,7 +23,7 @@
 ## 🏗️ System Architecture
 
 *(Optional: Replace the link below with the actual path to your architecture diagram)*
-![VRClass Architecture](Assets/Architecture_VRClass.png)
+![VRClass Architecture](Assets/Archtecture_VRClass.png)
 
 VRClass operates on a modular client-server architecture:
 1.  **Avatar Engine (Server):** Handles the initialization of PSHuman prefabs, SMPL-X parameter computation, and VRM conversion.
