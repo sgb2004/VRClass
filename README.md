@@ -3,7 +3,7 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+
 
 > **Say goodbye to "Zoom fatigue."** VRClass is a cross-platform desktop application that transforms remote education into an interactive, synchronized 3D experience using AI-generated avatars and webcam-based motion capture—no VR headsets required.
 
@@ -23,7 +23,7 @@
 ## 🏗️ System Architecture
 
 *(Optional: Replace the link below with the actual path to your architecture diagram)*
-![VRClass Architecture](docs/architecture_diagram.png)
+![VRClass Architecture](Assets/Architecture_VRClass.png)
 
 VRClass operates on a modular client-server architecture:
 1.  **Avatar Engine (Server):** Handles the initialization of PSHuman prefabs, SMPL-X parameter computation, and VRM conversion.
